@@ -11,8 +11,6 @@ keywords:
   - MIT licensed
 ---
 
-# Haris Edge Docs
-
 <div class="hero-shell">
   <div class="hero-kicker">Open component of the Haris platform</div>
   <h1>Haris Edge</h1>
