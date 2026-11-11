@@ -12,7 +12,7 @@ keywords:
 
 ## What exactly does Haris collect and process on the vessel?
 
-Haris is designed to ingest vessel telemetry from NMEA 0183, NMEA 2000, and Signal K compatible sources. It can normalize those inputs on the edge device, monitor local system health, and prepare selected data for controlled transmission toward the operations center.
+Haris Edge is designed to ingest vessel telemetry from NMEA 0183, NMEA 2000, and Signal K compatible sources. It can normalize those inputs on the edge device, monitor local system health, and prepare selected data for controlled transmission toward the operations center.
 
 ## Why is Haris presented as a secure system?
 
@@ -24,4 +24,4 @@ The architecture is edge-first, which means collection and local processing happ
 
 ## Can Haris integrate with a Security Operations Center or M-SOC workflow?
 
-Yes. Haris is designed to support SOC and M-SOC style operations by forwarding structured telemetry, logs, and health context into centralized monitoring environments.
+Yes. Haris Edge is designed to support SOC and M-SOC style operations by forwarding structured telemetry, logs, and health context into centralized monitoring environments.

@@ -1,14 +1,15 @@
 [project]
-site_name = "Haris Maritime Edge Docs"
+site_name = "Haris Edge Docs"
 site_url = "https://haris.oversight.ee/"
-site_description = "Documentation for Haris, a secure maritime edge telemetry platform for vessel data collection, Signal K normalization, and M-SOC integration."
+site_description = "Documentation for Haris Edge, the open MIT-licensed vessel-side component of the Haris platform: NMEA 0183, NMEA 2000 and Signal K collection, onboard normalization, and encrypted transport to shore."
 site_author = "Project Haris"
 docs_dir = "docs"
-repo_url = "https://github.com/project-haris/haris.ahmdngi.io"
+repo_url = "https://github.com/ahmdngi/haris.oversight.ee"
 extra_css = ["stylesheets/extra.css"]
 extra_javascript = ["javascripts/extra.js"]
 nav = [
   {"Overview" = "index.md"},
+  {"The Haris platform" = "platform.md"},
   {"Architecture" = "architecture.md"},
   {"Watchtower" = "watchtower.md"},
   {"Deployment" = "deployment.md"},

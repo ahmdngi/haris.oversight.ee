@@ -1,20 +1,22 @@
 ---
-title: Project Haris Repositories
-description: Source repositories for Project Haris, including marine_haris, Watchtower automation, and the haris.oversight.ee documentation site.
+title: Haris Edge repositories
+description: Source repositories for Haris Edge, including marine-haris (the vessel edge stack) and Watchtower automation, both MIT licensed.
 keywords:
-  - Project Haris repositories
-  - marine_haris
+  - Haris Edge repositories
+  - marine-haris
   - Watchtower repository
   - maritime open source
 ---
 
 # Repos
 
-The Haris workspace is a set of focused sub-projects.
+Haris Edge is a set of focused sub-projects, all released under the MIT licence.
 
-## `marine_haris`
+## `marine-haris`
 
 Python-based vessel edge stack covering parsers, transmission, health monitoring, hardware notes, deployment guides, and system services.
+
+Repository: <https://github.com/project-haris/marine-haris>
 
 ## `watchtower`
 
@@ -56,4 +58,4 @@ Repository: <https://github.com/project-haris/watchtower>
 
 ## `haris.oversight.ee`
 
-Static marketing site. This Zensical folder reframes the same project as a documentation-first presentation that can be served with `zensical serve`.
+This documentation site, built with Zensical and served at <https://haris.oversight.ee>. It documents Haris Edge, the open component; the Haris platform itself is proprietary and is described in [the platform page](platform.md).
